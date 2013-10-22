@@ -3,7 +3,7 @@ package com.stylingandroid.listview;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/////////////////////////JAVAAA GIT TRY
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
