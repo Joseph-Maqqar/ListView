@@ -3,6 +3,10 @@ package com.stylingandroid.listview;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+<<<<<<< HEAD
+=======
+/////////////////////////JAVAAA GIT TRY
+>>>>>>> branch 'master' of https://github.com/Joseph-Maqqar/ListView.git
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
