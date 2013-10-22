@@ -1,9 +1,8 @@
 package com.stylingandroid.listview;
-
+//////////////////////////////////////////////////
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -24,6 +23,7 @@ public class CustomAdapter extends BaseAdapter
 	{
 		this.context = context;
 		this.items = items;
+		//this.items = items;
 	}
 
 	@Override
